@@ -120,6 +120,7 @@ All affected form_detail IDs with quantity changes
 All deleted form_header IDs
 
 ## Project Structure
+```
 rob-shop-cleanup/
 ├── main.go              # Entry point and workflow orchestration
 ├── config.go           # Configuration management
@@ -132,6 +133,7 @@ rob-shop-cleanup/
 ├── .env.example        # Example configuration
 ├── go.mod              # Go module
 └── README.md           # This file
+```
 
 ## Safety Features
 
